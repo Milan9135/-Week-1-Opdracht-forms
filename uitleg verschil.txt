@@ -1,0 +1,2 @@
+get zet de informatie in de url
+post doet dat niet
