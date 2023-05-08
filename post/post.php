@@ -1,10 +1,16 @@
 <?php
 
 $naam = $_POST["name"];
-$leeftijd = $_POST["age"];
+$achternaam = $_POST["last-name"];
+$email = $_POST["email"];
+$age = $_POST["age"];
+$adress = $_POST["adress"];
 
 echo("$naam ");
-echo("$leeftijd ");
+echo("$achternaam ");
+echo("$age ");
+echo("$email ");
+echo("$adress ");
 
 
 ?>

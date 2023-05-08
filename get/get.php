@@ -8,8 +8,8 @@ $adress = $_GET["adress"];
 
 echo("$naam ");
 echo("$achternaam ");
-echo("$email ");
 echo("$age ");
+echo("$email ");
 echo("$adress ");
 
 ?>
